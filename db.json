@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "stu_name": "Muhammad Abbas",
+      "fname": "Muhammad Rehman",
+      "classname": "BSCS",
+      "email": "rizwanirshad11@gmauil.com",
+      "city": "Jhang",
+      "imgurl": "https://images.pexels.com/photos/5384445/pexels-photo-5384445.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 1
+    },
+    {
+      "stu_name": "Sahrish Fatima",
+      "fname": "Muhammad Rehman",
+      "classname": "BSCS",
+      "email": "sahrish12@gmail.com",
+      "city": "Bhakkar",
+      "imgurl": "https://images.pexels.com/photos/3796217/pexels-photo-3796217.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 2
+    },
+    {
+      "stu_name": "Sidra Saif",
+      "fname": "Muhammad Rehman",
+      "classname": "BSCS",
+      "email": "sidrasaif@gmail.com",
+      "city": "Bhakkar",
+      "imgurl": "https://images.pexels.com/photos/4382484/pexels-photo-4382484.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 3
+    },
+    {
+      "stu_name": "Sadia Ashraf",
+      "fname": "Muhammad Ashraf",
+      "email": "sadia2345@gmail.com",
+      "city": "Lahore",
+      "classname": "BSCS",
+      "imgurl": "https://images.pexels.com/photos/6962008/pexels-photo-6962008.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 4
+    }
+  ]
+}
